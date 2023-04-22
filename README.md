@@ -10,3 +10,9 @@ Develop a blockchain based solution to let people easily understand your name, s
 • Family Name
 • Image stored on IPFS
 • Audio Pronunciation stored on IPFS
+
+## Technologies and standards
+• Ethereum
+• Solidity
+• Openzeppelin, ERC721
+• Web3 / React JS / Node / Javascript / CSS (frontend yet to be developed)
